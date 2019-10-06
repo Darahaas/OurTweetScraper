@@ -17,5 +17,3 @@ NOTE1: n hashtags would generate 2^n commands which are either concatenated with
 If you'd run 'GenCommands.sh' make sure that you limit the number of hashtags to not more than 5. It's a rough number, but it may vary with the different configurations.
 
 NOTE2: To know the prerequisites and also more about the project which we've tweaked to yeild more number of tweets, read another README.txt inside TweetScraper dir.
-
-*** MORE DOCUMENTATION WOULD BE PROVIDED AFTER FEW MORE UPDATES. KINDLY CO-OPERATE AND REACH US ON 15311A0572@sreenidhi.edu.in ***
